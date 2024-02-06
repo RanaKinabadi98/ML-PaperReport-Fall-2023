@@ -13,3 +13,4 @@ Classifiers:
 CatBoost: Gradient boosting with categorical feature support.
 K-Nearest Neighbors (KNN): Instance-based learning.
 Decision Tree: Tree-based classification.
+Download Dataset : kaggle.com/gpreda/chinese-mnist
